@@ -1,0 +1,21 @@
+id,name,category,price,stock,tags,image
+1,Wireless Mouse,Electronics,499,15,computer accessory wireless office,images/wireless_mouse.png
+2,Mechanical Keyboard,Electronics,1999,8,computer accessory typing office,images/mechanical_keyboard.png
+3,Bluetooth Headphones,Electronics,1499,10,audio music wireless,images/bluetooth_headphones.png
+4,Laptop Stand,Electronics,799,12,computer accessory office desk,images/laptop_stand.png
+5,USB Flash Drive 64GB,Electronics,399,25,storage computer accessory,images/usb_flash_drive_64gb.png
+6,Power Bank 10000mAh,Electronics,1199,14,mobile charging travel,images/power_bank_10000mah.png
+7,Running Shoes,Fashion,2499,9,sports footwear fitness,images/running_shoes.png
+8,Cotton T-Shirt,Fashion,599,30,clothing casual daily,images/cotton_t_shirt.png
+9,Denim Jeans,Fashion,1299,18,clothing casual daily,images/denim_jeans.png
+10,Backpack,Fashion,1099,11,travel bag college office,images/backpack.png
+11,Sunglasses,Fashion,699,16,accessory travel summer,images/sunglasses.png
+12,Yoga Mat,Sports,899,13,fitness exercise home,images/yoga_mat.png
+13,Water Bottle,Sports,299,40,fitness travel daily,images/water_bottle.png
+14,Dumbbell Set,Sports,1799,6,fitness exercise home,images/dumbbell_set.png
+15,Notebook Pack of 5,Stationery,249,50,college office writing,images/notebook_pack_of_5.png
+16,Gel Pen Set,Stationery,149,60,college office writing,images/gel_pen_set.png
+17,Desk Lamp,Home,899,10,desk office lighting,images/desk_lamp.png
+18,Coffee Mug,Home,249,35,kitchen daily office,images/coffee_mug.png
+19,Bedsheet Set,Home,1399,7,bedroom home cotton,images/bedsheet_set.png
+20,Table Fan,Home,1599,5,summer home cooling,images/table_fan.png
